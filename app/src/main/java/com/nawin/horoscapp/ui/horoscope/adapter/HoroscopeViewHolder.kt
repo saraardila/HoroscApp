@@ -31,6 +31,5 @@ class HoroscopeViewHolder(view:View):RecyclerView.ViewHolder(view) {
             withEndAction{newLambda()} // esto se va a ejecutar cuando termine la animacion
             start()
         }
-       /// 8:24:55
     }
 }

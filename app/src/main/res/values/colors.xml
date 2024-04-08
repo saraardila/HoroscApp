@@ -4,14 +4,14 @@
     <color name="white">#FFFFFFFF</color>
 
 
-    <color name="primary">#0B0C19</color>
+    <color name="primary">#101222</color>
     <color name="primary2">#1f1f1f</color>
-    <color name="primaryDark">#0B0C19</color>
+    <color name="primaryDark">#131425</color>
     <color name="primaryDark2">#181818</color>
     <color name="secondary">#DCC2A2</color>
     <color name="secondary2">#ee9361</color>
     <color name="accent">#FFFFFF</color>
-    <color name="gold">#ffe78f</color>
+    <color name="gold">#E1B869</color>
     <color name="black_alpha">#98000000</color>
 
     <color name="red">#FF0000</color>
