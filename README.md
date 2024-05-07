@@ -14,3 +14,6 @@ Aplicación de consultas al horóscopo
 - Camera X
 - Animaciones
 - UnitTest y UITest
+- 
+
+![image](https://github.com/saraardila/HoroscApp/assets/82755257/ff25aa81-4fcf-4337-8929-5bb9a53ef621)
