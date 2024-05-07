@@ -1,12 +1,16 @@
 package com.nawin.horoscapp.ui.home
 
 import android.app.Activity
+import android.graphics.Typeface
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import android.text.Spannable
+import android.text.SpannableString
 import androidx.navigation.NavController
 import androidx.navigation.NavHost
 import androidx.navigation.fragment.NavHostFragment
 import androidx.navigation.ui.setupWithNavController
+import com.google.android.material.bottomnavigation.BottomNavigationView
 import com.nawin.horoscapp.R
 import com.nawin.horoscapp.databinding.ActivityMainBinding
 import dagger.hilt.android.AndroidEntryPoint

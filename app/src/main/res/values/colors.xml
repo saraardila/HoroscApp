@@ -4,9 +4,9 @@
     <color name="white">#FFFFFFFF</color>
 
 
-    <color name="primary">#101222</color>
-    <color name="primary2">#1f1f1f</color>
-    <color name="primaryDark">#131425</color>
+    <color name="primary">#61735C</color>
+    <color name="primary2">#DFDFBB</color>
+    <color name="primaryDark">#61735C</color>
     <color name="primaryDark2">#181818</color>
     <color name="secondary">#DCC2A2</color>
     <color name="secondary2">#ee9361</color>
@@ -15,5 +15,5 @@
     <color name="black_alpha">#98000000</color>
 
     <color name="red">#FF0000</color>
-
+    DFDFBB
 </resources>
